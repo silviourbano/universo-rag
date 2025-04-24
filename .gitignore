@@ -1,0 +1,28 @@
+# Ambiente virtual
+.venv/
+venv/
+
+# Arquivos de índice FAISS
+data/index/
+data/*.faiss
+data/*.pkl
+
+# Logs e cache
+*.log
+*.jsonl
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.cache/
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Configs pessoais ou de IDEs
+.env
+.idea/
+.vscode/
+*.swp
