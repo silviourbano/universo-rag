@@ -1,0 +1,22 @@
+Estou vendendo bolos de chocolate, cenoura e baunilha.
+O bolo de chocolate tem recheio de brigadeiro e cobertura de chocolate.
+O bolo de cenoura tem cobertura de chocolate.
+Já o bolo de baunilha tem recheio de doce de leite e cobertura de chocolate branco.
+
+Cada bolo tem um preço diferente:
+- Bolo de chocolate: R$ 30,00
+- Bolo de cenoura: R$ 25,00
+- Bolo de baunilha: R$ 35,00
+
+Os bolos podem ser encomendados para festas, aniversários e eventos especiais.
+
+Os pedidos podem ser feitos pelo telefone 234-5678 ou pelo WhatsApp 234-5678.
+
+Fatias de bolo também estão disponíveis para venda.
+o preço da fatia varia de acordo com o sabor do bolo:
+- Fatia de bolo de chocolate: R$ 5,00
+- Fatia de bolo de cenoura: R$ 4,00
+- Fatia de bolo de baunilha: R$ 6,00
+
+Atendo das 8h às 18h, de segunda a sexta-feira. Somente retirada no local.
+Endereço: Rua das Flores, 123, Centro, São Paulo - SP.
