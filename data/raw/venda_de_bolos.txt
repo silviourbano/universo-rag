@@ -1,6 +1,6 @@
 Estou vendendo bolos de chocolate, cenoura e baunilha.
 O bolo de chocolate tem recheio de brigadeiro e cobertura de chocolate.
-O bolo de cenoura tem cobertura de chocolate.
+O bolo de cenoura tem cobertura de chocolate e não tem recheio.
 Já o bolo de baunilha tem recheio de doce de leite e cobertura de chocolate branco.
 
 Cada bolo tem um preço diferente:
