@@ -27,9 +27,9 @@ def main():
 
     prompt = build_prompt(context, question)
 
-    print("🤖 Enviando para o modelo (streaming)...\n💬 Resposta:")
+    print("🤖 Enviando para o modelo...\n💬 Resposta:")
     try:
-        print(f"(ℹ️ prompt length: {len(prompt)} tokens aprox.)")
+        # print(f"(ℹ️ prompt length: {len(prompt)} tokens aprox.)")
         with requests.post(CHAT_URL, json={"message": prompt}, stream=True, timeout=600) as response:
             response.raise_for_status()
             for chunk in response.iter_content(chunk_size=1024):

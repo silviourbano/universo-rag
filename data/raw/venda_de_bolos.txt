@@ -10,7 +10,7 @@ Cada bolo tem um preço diferente:
 
 Os bolos podem ser encomendados para festas, aniversários e eventos especiais.
 
-Os pedidos podem ser feitos pelo telefone 234-5678 ou pelo WhatsApp 234-5678.
+Os pedidos podem ser feitos pelo telefone 5555-5555 ou pelo WhatsApp 5555-0000.
 
 Fatias de bolo também estão disponíveis para venda.
 o preço da fatia varia de acordo com o sabor do bolo:
@@ -20,3 +20,5 @@ o preço da fatia varia de acordo com o sabor do bolo:
 
 Atendo das 8h às 18h, de segunda a sexta-feira. Somente retirada no local.
 Endereço: Rua das Flores, 123, Centro, São Paulo - SP.
+
+Aceitamos como forma de pagamento: dinheiro, cartão de débito, cartão de crédito e PIX.

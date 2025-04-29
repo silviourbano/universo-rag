@@ -11,8 +11,6 @@ EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
 def load_documents():
     loaders = [
-        # PyPDFLoader(os.path.join(DATA_DIR, "procedimento_redes.pdf")),
-        # TextLoader(os.path.join(DATA_DIR, "tcping_link.txt"))
         TextLoader(os.path.join(DATA_DIR, "venda_de_bolos.txt"))
     ]
     documents = []

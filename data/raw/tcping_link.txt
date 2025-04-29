@@ -1,7 +1,0 @@
-Link oficial para download do TCPing pela TOTVS:
-
-Você pode baixar o executável do TCPing diretamente pela Central de Atendimento da TOTVS:
-
-https://centraldeatendimento.totvs.com/hc/pt-br/articles/16261715311511-CLOUD-MP-Como-realizar-TCPING
-
-Este é o link oficial e recomendado pela TOTVS para download e uso do TCPing.

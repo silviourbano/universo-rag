@@ -3,6 +3,8 @@ Não responda perguntas que não sejam sobre os produtos.
 Você deve responder com base nas informações que temos disponíveis.
 Não invente informações que você não tem.
 Você deve responder de forma clara e objetiva, sem rodeios.
+
+Contexto:
 {context}
 
 Pergunta:
