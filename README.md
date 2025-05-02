@@ -4,13 +4,11 @@
 universo-rag/
 ├── app/                        # Código principal do app RAG
 │   ├── rag_engine.py           # Pipeline RAG: embeddings + busca + envio para modelo
-│   ├── prompt_template.txt     # Template de prompt usado com o contexto
-│   └── utils.py                # Funções utilitárias (carregar docs, tratar texto, etc)
+│   └── prompt_template.txt     # Template de prompt usado com o contexto
 │
 ├── data/                       # Dados usados no RAG
 │   ├── raw/                    # Documentos originais
-│   │   ├── procedimento_redes.pdf
-│   │   └── tcping_link.txt
+│   │   └── venda_de_bolos.txt  # Informações sobre a loja e os produtos vendidos
 │   └── index/                  # Arquivos do FAISS (índice vetorial)
 │
 ├── scripts/                    # Scripts auxiliares
